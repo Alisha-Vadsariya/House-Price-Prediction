@@ -1,20 +1,20 @@
-**🏠 House Price Prediction using Machine Learning**
+**🏠 House Price Prediction using Machine Learning** <br>
 
-**📌 Project Overview**
-This project presents an end-to-end machine learning pipeline for predicting residential property prices using historical housing data. It includes data preprocessing, exploratory data analysis, feature engineering, regression model development, hyperparameter tuning, and performance evaluation. The model achieved approximately 92% prediction accuracy, demonstrating the practical application of predictive analytics in real estate valuation.
+**📌 Project Overview**<br>
+This project presents an end-to-end machine learning pipeline for predicting residential property prices using historical housing data. It includes data preprocessing, exploratory data analysis, feature engineering, regression model development, hyperparameter tuning, and performance evaluation. The model achieved approximately 92% prediction accuracy, demonstrating the practical application of predictive analytics in real estate valuation.<br>
 
-**🎯 Objectives**:
-Predict house prices using machine learning.
-Analyze the factors influencing property prices.
-Compare multiple regression models.
-Build an accurate and reliable prediction system.
+**🎯 Objectives**:<br>
+Predict house prices using machine learning.<br>
+Analyze the factors influencing property prices.<br>
+Compare multiple regression models.<br>
+Build an accurate and reliable prediction system.<br>
 
-**📊 Dataset:**
-Location
-Square Feet
-Bathroom
-BHK(Bedroom,Hall,Kitchen)
-Price
+**📊 Dataset:**<br>
+Location<br>
+Square Feet<br>
+Bathroom<br>
+BHK(Bedroom,Hall,Kitchen)<br>
+Price<br>
 
 **🛠️ Technologies Used**
 Python
