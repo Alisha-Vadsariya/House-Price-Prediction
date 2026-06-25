@@ -16,51 +16,54 @@ Bathroom<br>
 BHK(Bedroom,Hall,Kitchen)<br>
 Price<br>
 
-**🛠️ Technologies Used**
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Excel
+**🛠️ Technologies Used**<br>
+Python<br>
+Jupyter Notebook<br>
+Pandas<br>
+NumPy<br>
+Scikit-learn<br>
+Matplotlib<br>
+Excel<br>
 
-**📈 Exploratory Data Analysis (EDA)**:
-Cleaned the data
-Handled missing values
-Removed duplicates
-Identified outliers
-Explored feature relationships
+**📈 Exploratory Data Analysis (EDA)**:<br>
+Cleaned the data<br>
+Handled missing values<br>
+Removed duplicates<br>
+Identified outliers<br>
+Explored feature relationships<br>
 
-**🤖 Machine Learning Models**:
-Linear Regression
-Lasso Regression
-Rideg Regression
+**🤖 Machine Learning Models**:<br>
+Linear Regression<br>
+Lasso Regression<br>
+Rideg Regression<br>
 
-**📊Descriptive statistical measures:**
-Count
-Mean
-Standard Deviation (Std)
-Minimum (Min)
-25th Percentile (Q1)
-50th Percentile (Median/Q2)
-75th Percentile (Q3)
-Maximum (Max)
+**📊Descriptive statistical measures:**<br>
+Count<br>
+Mean<br>
+Standard Deviation (Std)<br>
+Minimum (Min)<br>
+25th Percentile (Q1)<br>
+50th Percentile (Median/Q2)<br>
+75th Percentile (Q3)<br>
+Maximum (Max)<br>
 
-**💼 Business Impact:**
-Buyers in estimating fair market prices
-Sellers in pricing properties competitively
-Real estate agencies in improving valuation
-Investors in identifying profitable opportunities
+**💼 Business Impact:**<br>
+Buyers in estimating fair market prices<br>
+Sellers in pricing properties competitively<br>
+Real estate agencies in improving valuation<br>
+Investors in identifying profitable opportunities<br>
 
-**📷 Project Screenshots**:
-**🏡 Home**
+**📷 Project Screenshots**:<br>
 <img width="968" height="720" alt="image" src="https://github.com/user-attachments/assets/fb9bcb72-ad93-4bed-9240-9cf94b0dd394" />
-📈 Predict Price
+
+**📈 Predict Price**<br>
 <img width="1369" height="430" alt="image" src="https://github.com/user-attachments/assets/bdb45de1-7370-48b7-a14d-a9e7290b35c9" />
-**📍 Location Insights**
+
+**📍 Location Insights**<br>
 <img width="1228" height="491" alt="image" src="https://github.com/user-attachments/assets/a0eff51c-d176-4d97-83c0-8507f8a899f9" />
-**👨‍💻 About Us**
+
+**👨‍💻 About Us**<br>
 <img width="1248" height="371" alt="image" src="https://github.com/user-attachments/assets/f9a86d36-04b5-412e-a33b-8ca4090fc812" />
-**📞 Contact Us**
+
+**📞 Contact Us**<br>
 <img width="1230" height="450" alt="image" src="https://github.com/user-attachments/assets/26d3d399-83f4-4939-8e9d-2c085bb6bf9c" />
